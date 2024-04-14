@@ -3,7 +3,7 @@ Providing Insights into Health Data Science Education through Artificial Intelli
 
 Implementation of the methodology used to identify learning tactics and strategies of students in the health data science course. The article is avalable: 
 The methodology employed to address RQ3 involves the following steps:
-
+https://github.com/nrohani/HDS-EDM/blob/main/overview.png
 
 1. Collecting clickstream data from students, which captures their interactions including engagement with video lectures, participation in discussion forums, projects, labs, and more. The data is not publicly available due to ethical and legal restrictions. 
 
