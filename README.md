@@ -21,6 +21,7 @@ The methodology employed to address RQ3 involves the following steps:
 - scikit-image==0.18.3
 - pMineR
 - TraMineR
+- ggplot2
 ### Codes and Data
 - Find data in DS1 folder.
 - Codes of functions of ISCMF are available in code.py.
