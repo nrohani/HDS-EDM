@@ -1,7 +1,9 @@
-# HDS-EDM
-Providing Insights into Health Data Science Education through Artificial Intelligence
+# Providing Insights into Health Data Science Education through Artificial Intelligence
 
-Implementation of the methodology used to identify learning tactics and strategies of students in the health data science course. The article is avalable: https://www.biorxiv.org/content/10.1101/2024.03.22.586308v1.abstract
+
+Implementation of the methodology used to identify learning tactics and strategies of students in the health data science course. 
+The article is avalable: https://www.biorxiv.org/content/10.1101/2024.03.22.586308v1.abstract
+
 The methodology employed to address RQ3 involves the following steps:
 ![Method schema](https://github.com/nrohani/HDS-EDM/blob/main/overview.png)
 
