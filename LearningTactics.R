@@ -3,10 +3,12 @@
 #You may need change number of clusters and the columns' names.
 #Importing librarires 
 library(pMineR);
-library('reshape2')
-library(bupaR)
-library(seqClustR)
-library(pMineR);
+library('TraMineR')
+
+#library('reshape2')
+#library(bupaR)
+#library(seqClustR)
+#library(pMineR);
 library(ggplot2)
 #---------------------------------------------------------------------------------
 #Setting random variable
