@@ -15,8 +15,12 @@ The methodology employed to address RQ3 involves the following steps:
 
 4. Calculating the frequency of each learning tactic's usage by individual students and using that value to cluster students into meaningful groups, thereby demonstrating their learning strategies. Python code: 
 ### Dependency:
-- python version 3.5.3
-- scikit-learn
+- Python 3.9.7
+- R-4.1.3
+- numpy==1.19.5
+- scikit-image==0.18.3
+- pMineR
+- TraMineR
 ### Codes and Data
 - Find data in DS1 folder.
 - Codes of functions of ISCMF are available in code.py.
