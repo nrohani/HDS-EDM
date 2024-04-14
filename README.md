@@ -19,13 +19,17 @@ The methodology employed to address RQ3 involves the following steps:
 - R-4.1.3
 - numpy==1.19.5
 - scikit-image==0.18.3
+- pandas
+- matplotlib
+- seaborn
+- statistics
+- scipy
 - pMineR
 - TraMineR
 - ggplot2
-### Codes and Data
-- Find data in DS1 folder.
-- Codes of functions of ISCMF are available in code.py.
-- Find SNF code in https://github.com/nrohani/NDD/tree/master/NDD
+### Codes 
+- Find the R code for learning tactic identification at: https://github.com/nrohani/HDS-EDM/blob/main/LearningTactics.R
+- The Python code for learning strategy discovery is available at: https://github.com/nrohani/HDS-EDM/blob/main/LearningStrategy.ipynb
 
 ### Contact
 Please do not hesitate to contact me if you have any question: 
